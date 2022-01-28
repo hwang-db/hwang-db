@@ -2,7 +2,7 @@
 
 Things I'm working on:
 
-- 🔭 Building knowledge repo: https://hwang-db.github.io/docsify-db/#/
+- 🔭 Building knowledge repo: https://hwang-db.github.io/docsify-db
 - 🔭 Building terraform patterns for Azure Databricks
 - 🌱 I’m currently learning Scala, Terraform, mlops
 - 💬 Ask me about Azure Databricks
