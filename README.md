@@ -1,10 +1,10 @@
-### Databricks Q1: Feb-2022 to Apr-2022
+### Databricks Q2: May-2022 to Jul-2022
 
 Things I'm working on:
 
-- 🔭 Building knowledge repo: https://hwang-db.github.io/docsify-db
 - 🔭 Building terraform patterns for Azure Databricks
 - 🌱 I’m currently learning Scala, Terraform, mlops
+- 🌱 Getting through networking stuff on Azure
 - 💬 Ask me about Azure Databricks, Terraform, Azure stuff
 - 📫 How to reach me: hao.wang@databricks.com
 
