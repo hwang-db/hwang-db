@@ -1,11 +1,11 @@
-### Databricks Q2: May-2022 to Jul-2022
+### Databricks Q3: Aug-2022 to Oct-2022
 
 Things I'm working on:
 
-- 🔭 Building terraform patterns for Azure Databricks
-- 🌱 I’m currently learning Scala, Terraform, mlops
-- 🌱 Getting through networking stuff on Azure
-- 💬 Ask me about Azure Databricks, Terraform, Azure stuff
+- 🌱 Databricks Platform on Azure/AWS
+- 🌱 mlops, ML/DS cases
+- 🌱 AZ-700
+- 🌱 Terraform Databricks Patterns
 - 📫 How to reach me: hao.wang@databricks.com
 
 <!--
