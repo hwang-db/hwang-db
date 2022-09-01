@@ -4,7 +4,7 @@ Things I'm working on:
 
 - 🌱 Databricks Platform on Azure/AWS
 - 🌱 mlops, ML/DS cases
-- 🌱 AZ-700
+- 🌱 AZ-104
 - 🌱 Terraform Databricks Patterns
 - 📫 How to reach me: hao.wang@databricks.com
 
