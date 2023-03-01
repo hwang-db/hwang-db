@@ -1,9 +1,9 @@
-### Databricks Q3: Nov-2022 to Jan-2023
+### Databricks Q1: Feb-2023 to Apr-2023
 
 Things I'm working on:
 
 - 🌱 Databricks Platform on AWS/GCP/Azure
-- 🌱 AWS SAA
+- 🌱 AZ-305
 - 🌱 Rust
 - 📫 How to reach me: hao.wang@databricks.com
 
